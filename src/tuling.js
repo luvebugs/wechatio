@@ -2,7 +2,7 @@ const http = require('http');
 const net = require('net');
 const url = require('url');
 const xml2js = require('xml2js');
-const querystring = require('querystring')
+const querystring = require('querystring');
 
 const options = {
     hostname: 'www.tuling123.com',
